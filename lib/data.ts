@@ -102,7 +102,11 @@ export const portfolioData: PortfolioData = {
     },
     {
       category: "Tools & Technologies",
-      skills: ["Git", "Linux", "Bash", "VS Code", "Postman","Kiro", "Figma","SpringBoot","Microsoft Clipboard","Docker", "Azure AI Services", "Google Gemini"]
+      skills: ["Git","Microsoft Excel","PowerPoint","Linux", "Bash", "VS Code", "Postman","Kiro", "Figma","SpringBoot","Microsoft Clipboard","Docker", "Azure AI Services", "Google Gemini"]
+    },
+    {
+      category: "Soft Skills",
+      skills: ["Problem Solving", "Critical Thinking", "Communication", "Team Collaboration", "Adaptability","Discipline", "Time Management", "Leadership"]
     }
   ]
 };
