@@ -119,11 +119,6 @@ export const Contact: React.FC<ContactProps> = ({ id }) => {
             📄 Download Resume
           </Button>
         </div>
-        
-        <div className="mt-12 text-gray-400 text-sm">
-          <p className="mb-2">Made with ❤️ and lots of ☕</p>
-          <p>© 2024 {portfolioData.personal.name}. All rights reserved.</p>
-        </div>
       </div>
     </section>
   );
