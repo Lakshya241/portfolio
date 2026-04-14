@@ -4,7 +4,6 @@ import { Projects } from '@/components/Projects';
 // import { Experience } from '@/components/Experience';
 import { Skills } from '@/components/Skills';
 import { Contact } from '@/components/Contact';
-import { BackToTop } from '@/components/BackToTop';
 
 export default function Home() {
   return (
@@ -16,7 +15,6 @@ export default function Home() {
         {/* <Experience id="experience" /> */}
         <Skills id="skills" />
         <Contact id="contact" />
-        <BackToTop />
       </main>
     </>
   );
