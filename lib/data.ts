@@ -5,9 +5,9 @@ export const portfolioData: PortfolioData = {
     name: "Lakshya Srivastava",
     title: "AI Developer | Full-Stack Engineer | ML Enthusiast",
     description: "I build intelligent systems, machine learning applications, and modern developer tools. Passionate about creating scalable solutions that make a real-world impact.",
-    email: "lakshaysrivas2411@gmail.com",
+    email: "lakshyasrivas2411@gmail.com",
     github: "https://github.com/Lakshya241",
-    linkedin: "https://www.linkedin.com/in/lakshya-srivastava-7a36b5336/"
+    linkedin: "https://www.linkedin.com/in/lakshya-srivastava-7a36b5336/",
   },
   about: {
     introduction: "I'm an AI developer and full-stack engineer with a passion for building intelligent systems that solve real-world problems. With expertise in machine learning, deep learning, and modern web technologies, I create scalable solutions from concept to deployment. My work spans AI assistants, recommendation systems, computer vision applications, and developer tools that enhance productivity.",
@@ -49,7 +49,7 @@ export const portfolioData: PortfolioData = {
       description: "AI-driven developer tool that analyzes entire codebases and provides context-aware insights, debugging support, and architecture understanding. Features a FastAPI backend with FAISS vector search for efficient code indexing, multi-LLM architecture supporting Anthropic Claude and Google Gemini, a repository ingestion pipeline for semantic search, and a query engine for asking questions about code structure, dependencies, and logic. Includes dependency analysis, architecture generation, and impact analysis.",
       technologies: ["FastAPI", "React", "FAISS", "Python", "TailwindCSS", "Anthropic Claude", "Google Gemini"],
       githubUrl: "https://github.com/Lakshya241/aws.git",
-      demoUrl: "https://aws-oliver.vercel.app",
+      demoUrl: "https://aws-olive.vercel.app/",
       featured: true
     },
   ],
@@ -82,7 +82,7 @@ export const portfolioData: PortfolioData = {
   skills: [
     {
       category: "AI / Machine Learning",
-      skills: ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Deep Learning", "Neural Networks", "NLP", "Computer Vision", "Large Language Models", "Transformers", "BERT", "GPT", "Reinforcement Learning"]
+      skills: ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Deep Learning", "Neural Networks", "NLP",  "Large Language Models", "GPT", "Reinforcement Learning"]
     },
     {
       category: "Backend Development",
@@ -94,7 +94,7 @@ export const portfolioData: PortfolioData = {
     },
     {
       category: "DevOps & Cloud",
-      skills: [ "AWS", "Azure","GitHub Actions", ]
+      skills: [ "AWS", "Azure","GitHub Actions" ]
     },
     {
       category: "Data Science & Analytics",
@@ -102,7 +102,7 @@ export const portfolioData: PortfolioData = {
     },
     {
       category: "Tools & Technologies",
-      skills: ["Git", "Linux", "Bash", "VS Code", "Postman", "Figma","SpringBoot"]
+      skills: ["Git", "Linux", "Bash", "VS Code", "Postman","Kiro", "Figma","SpringBoot","Microsoft Clipboard","Docker", "Azure AI Services", "Google Gemini"]
     }
   ]
 };
