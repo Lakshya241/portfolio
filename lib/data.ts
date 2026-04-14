@@ -86,15 +86,11 @@ export const portfolioData: PortfolioData = {
     },
     {
       category: "Backend Development",
-      skills: ["Node.js", "FastAPI", "Flask", "Django", "Express.js", "REST APIs", "MongoDB", "MySQL"]
+      skills: [ "AWS", "Azure","Node.js", "FastAPI", "Flask", "Django", "Express.js", "REST APIs", "MongoDB", "MySQL"]
     },
     {
       category: "Frontend Development",
       skills: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS","HTML5", "CSS3", "Responsive Design"]
-    },
-    {
-      category: "DevOps & Cloud",
-      skills: [ "AWS", "Azure","GitHub Actions" ]
     },
     {
       category: "Data Science & Analytics",
