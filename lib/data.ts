@@ -82,15 +82,15 @@ export const portfolioData: PortfolioData = {
   skills: [
     {
       category: "AI / Machine Learning",
-      skills: ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Deep Learning", "Neural Networks", "NLP",  "Large Language Models", "GPT", "Reinforcement Learning"]
+      skills: ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "Deep Learning", "Neural Networks", "NLP",  "Large Language Models", "GPT"]
     },
     {
       category: "Backend Development",
-      skills: [ "AWS", "Azure","Node.js", "FastAPI", "Flask", "Django", "Express.js", "REST APIs", "MongoDB", "MySQL"]
+      skills: [ "AWS","Node.js", "FastAPI", "Flask", "Django", "Express.js", "REST APIs", "MongoDB", "MySQL"]
     },
     {
       category: "Frontend Development",
-      skills: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS","HTML5", "CSS3", "Responsive Design"]
+      skills: ["React", "Next.js", "JavaScript", "Tailwind CSS","HTML5", "CSS3", "Responsive Design"]
     },
     {
       category: "Data Science & Analytics",
@@ -98,7 +98,7 @@ export const portfolioData: PortfolioData = {
     },
     {
       category: "Tools & Technologies",
-      skills: ["Git","Microsoft Excel","PowerPoint","Linux", "Bash", "VS Code", "Postman","Kiro", "Figma","SpringBoot","Microsoft Clipboard","Docker", "Azure AI Services", "Google Gemini"]
+      skills: ["Git","Microsoft Excel","PowerPoint","Linux", "Bash", "VS Code", "Postman","Kiro", "Figma","Microsoft Clipboard(Editing)","Docker", "Azure AI Services", "Google Gemini"]
     },
     {
       category: "Soft Skills",
