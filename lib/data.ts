@@ -102,7 +102,7 @@ export const portfolioData: PortfolioData = {
     },
     {
       category: "Soft Skills",
-      skills: ["Problem Solving", "Critical Thinking", "Communication", "Team Collaboration", "Adaptability","Discipline", "Time Management", "Leadership"]
+      skills: ["Problem Solving", "Critical Thinking", "Communication", "Team Collaboration", "Presenter" , "Adaptability","Discipline", "Time Management", "Leadership"]
     }
   ]
 };
